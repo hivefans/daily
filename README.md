@@ -1,5 +1,5 @@
 ![](src/icon.png)
-# Knowledge Base Chrome Extension
+# web3 daily Chrome Extension
 This is a A tool for sharing web3 airdrop events and giveaway information.
 
 
